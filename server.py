@@ -14,4 +14,4 @@ def welcomer():
 
 
 if __name__ == '__main__':
-	app.run(host = '0.0.0.0', port = 5000)
+	app.run(host = '144.172.71.84', port = 5000)
